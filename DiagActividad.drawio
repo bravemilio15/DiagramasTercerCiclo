@@ -1,71 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T14:53:30.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="haSJmR6F2Jq7ECujYP2r" version="21.3.7" type="device">
+<mxfile host="app.diagrams.net" modified="2023-06-08T16:36:35.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5KbdhicQuFS-EwlGFoai" version="21.3.7" type="github">
   <diagram name="Página-1" id="Gpf-qaIa7NJB8zfgSjEI">
-    <mxGraphModel dx="880" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-1" target="QGM3a--Py1Pl6MsEmPgr-2">
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QGM3a--Py1Pl6MsEmPgr-1" target="QGM3a--Py1Pl6MsEmPgr-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-1" value="Usuario Ingresa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-1" value="Usuario Verificado Ingresa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-2" target="QGM3a--Py1Pl6MsEmPgr-4">
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QGM3a--Py1Pl6MsEmPgr-2" target="QGM3a--Py1Pl6MsEmPgr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-2" value="Ya Realizo el Voto" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-2" value="Comprobar si Realizo Voto" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-8" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-4" target="QGM3a--Py1Pl6MsEmPgr-6">
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-8" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QGM3a--Py1Pl6MsEmPgr-4" target="QGM3a--Py1Pl6MsEmPgr-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-10" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-4" target="QGM3a--Py1Pl6MsEmPgr-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-10" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QGM3a--Py1Pl6MsEmPgr-4" target="QGM3a--Py1Pl6MsEmPgr-9" edge="1">
+          <mxGeometry x="-0.3333" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="420" />
+              <mxPoint x="540" y="420" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-4" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-6" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-6" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="415" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-9" target="QGM3a--Py1Pl6MsEmPgr-12">
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-9" target="ztRZqyPgl4N2u4Ldu0n9-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="450" />
+              <mxPoint x="520" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-9" value="Dar Papeleta" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QGM3a--Py1Pl6MsEmPgr-12" target="QGM3a--Py1Pl6MsEmPgr-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-9" value="Hace el Voto" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-12" target="QGM3a--Py1Pl6MsEmPgr-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-12" value="Validar Elecciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-12" value="Valida Elecciones" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-13" target="QGM3a--Py1Pl6MsEmPgr-15">
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QGM3a--Py1Pl6MsEmPgr-13" target="QGM3a--Py1Pl6MsEmPgr-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-13" value="Registrar Votos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-13" value="Registra Voto" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-15" target="QGM3a--Py1Pl6MsEmPgr-17">
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QGM3a--Py1Pl6MsEmPgr-15" target="QGM3a--Py1Pl6MsEmPgr-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-15" value="Hacer Informe de los Votos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-15" value="Hace Informe de Votos" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-17" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="575" y="535" width="30" height="30" as="geometry" />
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-17" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="735" y="410" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-20" target="QGM3a--Py1Pl6MsEmPgr-1">
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztRZqyPgl4N2u4Ldu0n9-5" target="QGM3a--Py1Pl6MsEmPgr-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-5" value="Verifica Usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztRZqyPgl4N2u4Ldu0n9-6" target="ztRZqyPgl4N2u4Ldu0n9-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-22" value="Votantes" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="230" y="150" width="260" height="440" as="geometry" />
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-6" value="Ingresa al Sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-20" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="QGM3a--Py1Pl6MsEmPgr-22">
-          <mxGeometry x="40" y="65" width="30" height="30" as="geometry" />
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztRZqyPgl4N2u4Ldu0n9-11" target="ztRZqyPgl4N2u4Ldu0n9-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGM3a--Py1Pl6MsEmPgr-23" value="Sistema Votacion" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="490" y="150" width="260" height="440" as="geometry" />
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-11" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="115" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztRZqyPgl4N2u4Ldu0n9-14" target="QGM3a--Py1Pl6MsEmPgr-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="510" />
+              <mxPoint x="510" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-14" value="Realizar Voto" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-18" value="Votante" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="340" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ztRZqyPgl4N2u4Ldu0n9-19" value="Sistema Votacion" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="500" y="60" width="340" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
