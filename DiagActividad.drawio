@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2023-06-08T14:53:30.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="haSJmR6F2Jq7ECujYP2r" version="21.3.7" type="device">
+  <diagram name="Página-1" id="Gpf-qaIa7NJB8zfgSjEI">
+    <mxGraphModel dx="880" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-1" target="QGM3a--Py1Pl6MsEmPgr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-1" value="Usuario Ingresa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-2" target="QGM3a--Py1Pl6MsEmPgr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-2" value="Ya Realizo el Voto" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-8" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-4" target="QGM3a--Py1Pl6MsEmPgr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-10" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-4" target="QGM3a--Py1Pl6MsEmPgr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-6" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="415" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-9" target="QGM3a--Py1Pl6MsEmPgr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-9" value="Hace el Voto" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-12" target="QGM3a--Py1Pl6MsEmPgr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-12" value="Validar Elecciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-13" target="QGM3a--Py1Pl6MsEmPgr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-13" value="Registrar Votos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-15" target="QGM3a--Py1Pl6MsEmPgr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-15" value="Hacer Informe de los Votos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-17" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="575" y="535" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGM3a--Py1Pl6MsEmPgr-20" target="QGM3a--Py1Pl6MsEmPgr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-22" value="Votantes" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="260" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-20" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="QGM3a--Py1Pl6MsEmPgr-22">
+          <mxGeometry x="40" y="65" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM3a--Py1Pl6MsEmPgr-23" value="Sistema Votacion" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="260" height="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
