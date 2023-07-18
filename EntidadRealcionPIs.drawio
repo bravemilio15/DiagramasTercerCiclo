@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T23:38:37.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xJJrFup83nkw-gaOqTfl" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T23:38:51.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0j4e6WSVa3dLOUJpB8OV" version="21.6.3" type="github">
   <diagram name="Página-1" id="qsXRbhRiKgSvxW56G-HG">
     <mxGraphModel dx="954" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,6 +56,9 @@
         </mxCell>
         <mxCell id="9WJD3v_BNlLjHZxrxPCA-13" value="Votar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9WJD3v_BNlLjHZxrxPCA-24" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-c0083786-7fff-cdf5-cf27-6c06c1d9704f&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:402px;height:539px;&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/qAUheErYnfeknCB9TxJbMuV1wn1GnsKlPwxOGedetu0NUWEN9WxkxfWGb5Lbn0RaKaQ99uBC-3zA-GDQkabRUWfZx27bEHTWOYmS8tqz1WVHTsxCOTnV_RdsdmYgeHo2k5Uz6iyV0oZPzEo-B12CYeM&quot; width=&quot;402&quot; height=&quot;539&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="15" width="440" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
