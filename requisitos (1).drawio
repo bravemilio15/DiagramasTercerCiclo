@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T01:29:14.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RFiv9bikhNHXG2Vq7H3M" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T21:58:39.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BjC49EoRrQNmnAEpoi3v" version="21.6.3" type="github">
   <diagram name="Página-1" id="prHyPreBUG_5E3eLT4iP">
-    <mxGraphModel dx="954" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Y1fotiqVOqHZ8sBEhJWd-33" value="Historial" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="160" height="60" as="geometry" />
+          <mxGeometry x="110" y="66" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y1fotiqVOqHZ8sBEhJWd-34" value="-id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Y1fotiqVOqHZ8sBEhJWd-33" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
