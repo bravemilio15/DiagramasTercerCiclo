@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T18:09:08.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="v0GNIdeNwYNchP8uxBGq" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-11T19:48:50.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="kT-QDic6PM13JcTa0DHX" version="21.6.8" type="github" pages="5">
   <diagram name="VotoElectronico" id="5buqvQESy5piFprUBFC6">
-    <mxGraphModel dx="1055" dy="569" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="515" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,10 +88,10 @@
         <mxCell id="_SllBGiox1jJOV6LKdhr-9" value="Emitir Periodo de Votacion" style="ellipse;whiteSpace=wrap;html=1;" parent="uGterMtZVn7rVywb_9uQ-26" vertex="1">
           <mxGeometry x="38" y="488" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkECZEyMc4L2KNg1Ypse-2" value="Emitir Resultados de Elecciones" style="ellipse;whiteSpace=wrap;html=1;" parent="uGterMtZVn7rVywb_9uQ-26" vertex="1">
+        <mxCell id="kkECZEyMc4L2KNg1Ypse-2" value="Emitir Resultados Electorales" style="ellipse;whiteSpace=wrap;html=1;" parent="uGterMtZVn7rVywb_9uQ-26" vertex="1">
           <mxGeometry x="198" y="6" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kkECZEyMc4L2KNg1Ypse-3" value="Elaborar el Registro Electoral" style="ellipse;whiteSpace=wrap;html=1;" parent="uGterMtZVn7rVywb_9uQ-26" vertex="1">
+        <mxCell id="kkECZEyMc4L2KNg1Ypse-3" value="Elaborar Registro Electoral" style="ellipse;whiteSpace=wrap;html=1;" parent="uGterMtZVn7rVywb_9uQ-26" vertex="1">
           <mxGeometry x="203" y="81" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kkECZEyMc4L2KNg1Ypse-4" value="Registrar Candidaturas" style="ellipse;whiteSpace=wrap;html=1;" parent="uGterMtZVn7rVywb_9uQ-26" vertex="1">
